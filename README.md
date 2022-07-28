@@ -9,3 +9,9 @@ Iniciando os trabalhos de formação... 😁🤞
 
 
 ---
+
+### **07 de Julho de 2022**
+
+Criando o repositório e as primeiras tags para o site em HTML e CSS
+
+---
