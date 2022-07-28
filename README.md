@@ -15,3 +15,9 @@ Iniciando os trabalhos de formação... 😁🤞
 Criando o repositório e as primeiras tags para o site em HTML e CSS
 
 ---
+
+### **28 de Julho de 2022**
+
+Criando documento CSS e alterando cor do site, alinhamento e tamanho de texto
+
+---
