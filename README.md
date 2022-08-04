@@ -21,3 +21,9 @@ Criando o repositório e as primeiras tags para o site em HTML e CSS
 Criando documento CSS e alterando cor do site, alinhamento e tamanho de texto
 
 ---
+
+### **04 de Agosto de 2022**
+
+Trabalhando paletas de cores e melhorando o arquivo CSS
+
+---
