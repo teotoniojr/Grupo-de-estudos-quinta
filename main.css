@@ -1,10 +1,23 @@
-body{
+body {
     text-align: center;
     background-color: #00b4d8;
 }
-h1{
-    background: #90e0ef;  
+
+h1 {
+    border: 5px dashed #04052e;
+    background: #90e0ef;
 }
-.textoCorpo{
+
+.textoCorpo {
     background-color: #caf0f8;
+}
+
+.imagem-principal {
+    width: 100%;
+}
+
+.ancora {
+    width: 126px;
+    float: left;
+    margin: 0 20px 20px 0;
 }
