@@ -27,3 +27,7 @@ Criando documento CSS e alterando cor do site, alinhamento e tamanho de texto
 Trabalhando paletas de cores e melhorando o arquivo CSS
 
 ---
+
+### **11 de Agosto de 2022**
+
+Inserindo algumas imagens e trabalhando os comandos de tamanho, borda e espaçamento.
