@@ -1,14 +1,15 @@
 body {
-    text-align: center;
     background-color: #00b4d8;
 }
 
 h1 {
+    text-align: center;
     border: 5px dashed #04052e;
     background: #90e0ef;
 }
 
 .textoCorpo {
+    text-align: center;
     background-color: #caf0f8;
 }
 
@@ -20,4 +21,33 @@ h1 {
     width: 126px;
     float: left;
     margin: 0 20px 20px 0;
+}
+h2 {
+    padding: 20px;
+}
+ul {
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+}
+
+.beneficios {
+    color: #caf0f8;
+    background: #0077b6;
+}
+
+.itens {
+    font-size: 23px;
+    padding: 27px;
+    
+}
+
+li::marker {
+    content: "\27A6";
+    color: #caf0f8;
+    font-size: 20px;
+}
+
+.imagem-lista {
+    width: 46%;
 }
