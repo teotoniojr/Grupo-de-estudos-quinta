@@ -31,9 +31,3 @@ Trabalhando paletas de cores e melhorando o arquivo CSS
 ### **11 de Agosto de 2022**
 
 Inserindo algumas imagens e trabalhando os comandos de tamanho, borda e espaçamento.
-
----
-
-### **16 de Agosto de 2022
-
-Trabalhando com listas, display e algumas outras estilizações
