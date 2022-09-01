@@ -9,6 +9,7 @@ h1 {
 }
 
 .textoCorpo {
+    padding: 10px 10px;
     text-align: center;
     background-color: linear-gradient(#90e0ef,#00b4d8);
 }
